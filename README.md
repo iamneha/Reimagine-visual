@@ -25,5 +25,5 @@ Open the link in browser and enjoy :)
 #### Screen shots
 
 <p align="centre">
-  <img src"https://github.com/iamneha/Reimagine-visual/blob/master/Screenshot/Bubble_sort.png">
+  <img src"https://github.com/iamneha/Reimagine-visual/blob/master/Screenshot/Bubble_sort.png"  />
 </p>
