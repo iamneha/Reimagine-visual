@@ -24,6 +24,4 @@ Open the link in browser and enjoy :)
 
 #### Screen shots
 
-<p align="center">
-  <img src"https://github.com/iamneha/Reimagine-visual/blob/master/Screenshot/Bubble_sort.png"  alt="Tela inicial" />
-</p>
+![alt tag](https://github.com/iamneha/Reimagine-visual/blob/master/Screenshot/Bubble_sort.png)
